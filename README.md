@@ -1,4 +1,8 @@
 - 👋 Hi, I’m @LuciusPertis
+
+- highly interested about distributed systems and HPCs
+- currently working on a swarm bot project and NN IoT offloading 
+
 - 👀 I paint, love physics and 80s rock
 - 🌱 currently learning distributed systems and curious about freenet
 - 💞️ looking to collaborate some easy-peezy OSP
