@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuciusPertis, call me sheep 🐑.
+- 👋 Hi, call me sheep 🐑
 
 - 🧩 Current Interests : Graph Automata, distributed systems 
 
