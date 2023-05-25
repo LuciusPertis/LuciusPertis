@@ -1,4 +1,4 @@
-call me sheep 🐑
+call me sheep 🐑 |
 incomplete projects | thinks AI is magic | distributed sys 💕
 
 <!---
