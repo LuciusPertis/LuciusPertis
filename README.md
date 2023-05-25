@@ -1,4 +1,5 @@
-call me sheep 🐑 | incomplete projects | thinks AI is magic | distributed sys 💕
+call me sheep 🐑
+incomplete projects | thinks AI is magic | distributed sys 💕
 
 <!---
 LuciusPertis/LuciusPertis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
